@@ -1,0 +1,21 @@
+/* Warf Designs Your Plugin Styles */
+
+.wd-your-plugin-content {
+    background-color: #fff;
+    border: 2px solid #0073aa;
+    padding: 20px;
+    border-radius: 8px;
+    max-width: 800px;
+    margin: 30px auto;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+}
+
+.wd-your-plugin-content h2 {
+    color: #0073aa;
+    margin-bottom: 15px;
+}
+
+.wd-your-plugin-content p {
+    font-size: 16px;
+    color: #333;
+}
